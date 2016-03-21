@@ -1,7 +1,7 @@
 package lua
 
 import (
-	"lib4go/pool"
+	"github.com/lib4go/lib4go/pool"
 	l "github.com/yuin/gopher-lua"
     "errors"
 )
